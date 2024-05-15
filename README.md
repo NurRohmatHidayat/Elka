@@ -1,0 +1,2 @@
+# Elka
+Setting up Git
